@@ -7,6 +7,7 @@ example,
 ref=['r32']
 to execute the function 
 TT=datamesh(-25,25,1,'r32');
+Credit:  VIJAY NISHAD,BE-MECH
 %}
 function TT=datamesh(t1,t2,diff,ref)
 
